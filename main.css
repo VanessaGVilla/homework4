@@ -1,8 +1,12 @@
 h1 {
     text-decoration: underline;
 }
+h1  {
+    color:  blue;
+}
 .code {
     font-weight: bold;
 }
 #two {
     font-size: 200%;}
+
